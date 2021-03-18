@@ -1,5 +1,5 @@
 {
-  "contributors": "",
+  "contributors": [],
   "message": "you need to sign the CLA",
   "label": "unsigned-cla",
   "recheckComment": "rechecking for CLA status"
